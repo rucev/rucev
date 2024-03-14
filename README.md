@@ -11,11 +11,13 @@ After graduating and working as a psychologist for a while I turned my life upsi
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,nextjs,vue,html,css,tailwind,bootstrap,vite,threejs,vitest,jest,aws,docker,nginx,git,githubactions,postman" />
+<a href="https://flors.rucev.com/about">
+      <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,nextjs,vue,html,css,tailwind,bootstrap,vite,threejs,vitest,jest,aws,docker,nginx,git,githubactions,postman" />
+</a>
 </p>
 <h3 align="left">I’m currently learning:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://flors.rucev.com/about">
     <img src="https://skillicons.dev/icons?i=java,terraform,angular,svelte" />
   </a>
 </p>
